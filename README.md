@@ -1,2 +1,2 @@
-#InDesignPHPClient
-SOAPClient Class Extension for Adobe InDesign Server
+# InDesignPHPClient
+**SOAPClient Class Extension for Adobe InDesign Server**
